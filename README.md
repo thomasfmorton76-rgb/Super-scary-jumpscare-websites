@@ -36,4 +36,4 @@ Contributions are welcome! Feel free to submit a Pull Request to add classic hor
 
 ## 📄 License
 
-This list is provided for archival, educational, and harmless entertainment purposes under the [MIT License](https://opensource.org).
+This repository has no license
